@@ -1,4 +1,4 @@
-Repository for the work [**Splitting probabilities are optimal controllers of rare events**](https://arxiv.org/abs/2402.05414) in which we showcase the generative utility of the splitting probability. 
+Repository for the work [**Splitting probabilities are optimal controllers of rare reactive events**](https://arxiv.org/abs/2402.05414) in which we showcase the generative utility of the splitting probability. 
 
 Specifically, we derive an effective Doob force for the generalized bridge problem in which the system starting in a metastable state $A$ is conditioned to transfer to the product state $B$ within some finite time $t_f$. The derived force takes the form:
 $$\lambda^*(\mathbf{r},t) = \frac{2k_{\mathrm{B}} T \nabla_{\mathbf{r}} \bar q_B(\mathbf{r})}{ \bar q_B(\mathbf{r}) + \bar p_B(e^{\mu_2(t_f-t)} -1)}$$
